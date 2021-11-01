@@ -1,0 +1,10 @@
+C:\Users\54351\source\repos\Tp\Tp\bin\Debug\Tp.exe.config
+C:\Users\54351\source\repos\Tp\Tp\bin\Debug\Tp.exe
+C:\Users\54351\source\repos\Tp\Tp\bin\Debug\Tp.pdb
+C:\Users\54351\source\repos\Tp\Tp\obj\Debug\Tp.csproj.AssemblyReference.cache
+C:\Users\54351\source\repos\Tp\Tp\obj\Debug\Tp.Form1.resources
+C:\Users\54351\source\repos\Tp\Tp\obj\Debug\Tp.Properties.Resources.resources
+C:\Users\54351\source\repos\Tp\Tp\obj\Debug\Tp.csproj.GenerateResource.cache
+C:\Users\54351\source\repos\Tp\Tp\obj\Debug\Tp.csproj.CoreCompileInputs.cache
+C:\Users\54351\source\repos\Tp\Tp\obj\Debug\Tp.exe
+C:\Users\54351\source\repos\Tp\Tp\obj\Debug\Tp.pdb
